@@ -7,7 +7,7 @@ permalink: /
 notification: This Site currently under construction.
 sections:
   - hero:
-      background: /images/Hero Banner/cmtiBanner1920x720.png
+      background: /images/Hero Banner/hero-banner.png
       dropdown:
         title: Hero Dropdown Title
         options: []
