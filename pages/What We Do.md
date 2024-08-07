@@ -16,13 +16,33 @@ and commercializing these outputs.</p>
 </div>
 <p></p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Needs Finding</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>One of the biggest problems in innovation is accurately identifying needs.
 CMTi can help and guide clinician innovators to refine their Needs Statements
 for more clarity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/NeedsFinding.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Joint Funding</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CMTi has a wide network of local and international partners, and facilitates
+partnerships by working out the best arrangements for all parties.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/Partnerships.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
