@@ -64,6 +64,19 @@ clinicians and collaborators.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Pilot Trial, Validation &amp; Test Bedding</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Validation, Trials and Test-bedding are crucial to medical device development,
+and may differ starkly from one product to another. CMTi can help to lay
+out the project-specific processes and provide guidance on ethics approvals
+for the trials.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/pilotTrial.jpg">
+</div>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
