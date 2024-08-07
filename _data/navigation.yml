@@ -8,5 +8,7 @@ links:
     url: /team/
   - title: Projects & Programmes
     url: /projects-programmes/
+  - title: News & Publications
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
