@@ -7,7 +7,7 @@ permalink: /
 notification: This Site currently under construction.
 sections:
   - hero:
-      background: /images/Hero Banner/cmtiBanner1920x520.jpg
+      background: /images/Hero Banner/cmtiBanner1920x720.png
   - resources:
       title: News & Publications
       id: resources
