@@ -8,9 +8,6 @@ notification: This Site currently under construction.
 sections:
   - hero:
       background: /images/Hero Banner/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
       variant: center
       title: NHG Centre for Medical Technologies & Innovations
       subtitle: Enabling Innovation through MedTech
