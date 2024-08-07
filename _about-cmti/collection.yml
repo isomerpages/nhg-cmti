@@ -1,5 +1,5 @@
 collections:
-  about:
+  about-cmti:
     output: true
     order:
       - About CMTi.md
