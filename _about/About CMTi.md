@@ -4,7 +4,10 @@ permalink: /about-cmti/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4><strong>Our Vision</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/Vision.png">
+</div>
 <p></p>
 <p><a href="https://youtu.be/4kts6ggOeTA" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/4kts6ggOeTA</a>
 </p>
