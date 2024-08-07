@@ -77,6 +77,14 @@ for the trials.</p>
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Commercialize &amp; Implement</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CMTi works alongside our partners and supports them in every step of their
+commercialization pathway and the various adoption plans of NHG Institutions.</p>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
