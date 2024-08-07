@@ -2,5 +2,6 @@ collections:
   about-cmti:
     output: true
     order:
+      - Our Core Functions.md
       - Our Mission.md
       - Our Vision.md
