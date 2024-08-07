@@ -11,7 +11,9 @@ sections:
       dropdown:
         title: Hero Dropdown Title
         options: []
-      variant: image
+      variant: center
+      title: NHG Centre for Medical Technologies & Innovations
+      subtitle: Enabling Innovation through MedTech
   - resources:
       title: News & Publications
       id: resources
