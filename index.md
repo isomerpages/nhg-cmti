@@ -7,5 +7,5 @@ permalink: /
 notification: This Site currently under construction.
 sections:
   - hero:
-      background: /images/Hero Banner/CMTIBanner.jpg
+      background: /images/Hero Banner/cmtiBanner1920x520.jpg
 ---
