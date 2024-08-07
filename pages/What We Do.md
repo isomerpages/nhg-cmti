@@ -30,7 +30,7 @@ for more clarity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Joint Funding</summary>
+<summary>Partnership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>CMTi has a wide network of local and international partners, and facilitates
 partnerships by working out the best arrangements for all parties.</p>
@@ -41,9 +41,27 @@ partnerships by working out the best arrangements for all parties.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Joint Funding</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>CMTi keeps a look out for both intramural and extramural grants; guiding
+clinicians and collaborators through to increase the success rates of grant
+applications.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/JointFunding.jpg">
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ideation &amp; Co-Development</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Ideation and production development are left mainly to the inventors;
+but CMTi can facilitate to smoothen the process of co-development between
+clinicians and collaborators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/ideation.jpg">
+</div>
 </div>
 </details>
 </div>
