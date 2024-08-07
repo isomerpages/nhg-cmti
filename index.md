@@ -8,4 +8,7 @@ notification: This Site currently under construction.
 sections:
   - hero:
       background: /images/Hero Banner/cmtiBanner1920x520.jpg
+  - resources:
+      title: News & Publications
+      id: resources
 ---
