@@ -2,5 +2,11 @@ logo: /images/CMTI logo/CMTi_Logo.png
 links:
   - title: About Us
     collection: about-cmti
+  - title: What we Do
+    url: /permalink
+  - title: Our Team
+    url: /permalink
+  - title: Projects & Programmes
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
