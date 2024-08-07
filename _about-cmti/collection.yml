@@ -2,4 +2,4 @@ collections:
   about-cmti:
     output: true
     order:
-      - About CMTi.md
+      - Our Vision.md
