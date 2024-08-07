@@ -8,6 +8,10 @@ notification: This Site currently under construction.
 sections:
   - hero:
       background: /images/Hero Banner/cmtiBanner1920x720.png
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
+      variant: image
   - resources:
       title: News & Publications
       id: resources
