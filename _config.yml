@@ -1,5 +1,5 @@
 title: NHG Centre for Medical Technologies & Innovations (CMTi)
-url: https://www.opengov.sg
+url: https://innovation.gri.nhg.com.sg
 favicon: /images/CMTI logo/cmtiFavion2.png
 colors:
   primary-color: "#6031b6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: A National Healthcare Group (NHG) site built with Isomer
 permalink: none
 baseurl: ""
 exclude:
