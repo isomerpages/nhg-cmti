@@ -2,9 +2,9 @@ collections:
   about-cmti:
     output: true
     order:
-      - NHG Group Research & Innovation (GRI).md
       - Our Story.md
       - Our Vision.md
       - Our Mission.md
       - Our Core Functions.md
       - Our Achievements.md
+      - NHG Group Research & Innovation (GRI).md
