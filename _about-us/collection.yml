@@ -1,5 +1,5 @@
 collections:
-  about-cmti:
+  about-us:
     output: true
     order:
       - Our Story.md
